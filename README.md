@@ -1,4 +1,4 @@
-### Hi there 👋
+### Dark Angel's Profile👋
 
 
 <table>
@@ -12,7 +12,7 @@
           🌱 I’m currently learning more than Vue, React, typescript.
         </li>
         <li>
-         🌱 I’m currently learning typescript.
+         ✨ I’m currently learning typescript for majority.
         </li>
       </ul>
     </td>
@@ -21,10 +21,6 @@
     </td>
   </tr>
 </table>
-<input type='date'/>
-
-
-
 <!--
 **DarkAngel637/DarkAngel637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
