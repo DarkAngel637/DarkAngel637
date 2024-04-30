@@ -1,6 +1,29 @@
 ### Hi there 👋
-[![DarkAngel637's GitHub | Languages Over Time](https://stats.quine.sh/DarkAngel637/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkAngel637)
-- 🌱 I’m currently learning more than Vue, React, typescript.
+
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>
+          🔭 I’m currently working on frontend.
+        </li>
+        <li>
+          🌱 I’m currently learning more than Vue, React, typescript.
+        </li>
+        <li>
+         🌱 I’m currently learning typescript.
+        </li>
+      </ul>
+    </td>
+    <td>
+      <img src='https://stats.quine.sh/DarkAngel637/languages-over-time?theme=dark'/>
+    </td>
+  </tr>
+</table>
+<input type='date'/>
+
+
 
 <!--
 **DarkAngel637/DarkAngel637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +38,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![DarkAngel637's GitHub | Languages Over Time](https://stats.quine.sh/DarkAngel637/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkAngel637)
 -->
 
