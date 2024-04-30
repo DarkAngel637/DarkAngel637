@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![DarkAngel637's GitHub | Stats](https://stats.quine.sh/DarkAngel637/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkAngel637)
 <!--
 **DarkAngel637/DarkAngel637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
