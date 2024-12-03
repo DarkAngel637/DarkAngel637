@@ -9,6 +9,8 @@
 - 🔭 I’m currently working on frontend.
 - 🌱 I’m currently learning more than Vue, React, typescript.
 - ✨ I’m currently learning typescript for majority.
+- 📖 I’m currently working in mt.
+- 🇨🇳 And,I'm a Chinese 🫡
 
 <!--
 <div class='contain'>
